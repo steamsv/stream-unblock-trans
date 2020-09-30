@@ -1,0 +1,11 @@
+{
+    "name"  : "workerman/phptty",
+    "type"  : "project",
+    "keywords": ["web","tty"],
+    "homepage": "http://www.workerman.net",
+    "license" : "MIT",
+    "require": {
+        "workerman/workerman" : ">=3.3.0",
+        "workerman/mysql": "^1.0"
+    }
+}
